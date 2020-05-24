@@ -36,3 +36,6 @@ See the section about [running tests](https://facebook.github.io/create-react-ap
 ### `npm run test:coverage`
 
 Runs the test in watch mode with coverage
+
+
+This is for test purpose
